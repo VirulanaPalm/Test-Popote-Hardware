@@ -1,0 +1,16 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Arduino build products
+esp32/**/build/
+*.elf
+*.bin
+
+# Local ESP32 Wi-Fi credentials
+esp32/popote_hardware/wifi_secrets.h
+
+# Local logs
+logs/*.log

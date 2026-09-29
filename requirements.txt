@@ -1,0 +1,5 @@
+pyserial>=3.5,<4
+sounddevice>=0.5,<1
+groq>=1.7,<2
+piper-tts>=1.4,<2
+webrtcvad-wheels>=2.0.14,<3

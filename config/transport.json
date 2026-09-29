@@ -1,0 +1,15 @@
+{
+  "wifi": {
+    "enabled": true,
+    "bind_host": "0.0.0.0",
+    "pc_port": 39101,
+    "discovery_port": 39100,
+    "device_wait_seconds": 10
+  },
+  "audio": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "chunk_bytes": 1024
+  }
+}
